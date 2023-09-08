@@ -16,10 +16,9 @@ The analysis aims to answer several key questions posed by the client:
 9. Do certain triage levels correlate with specific diagnoses? 📊
 
 ## Project Structure 📂
-- `data/`: Contains the dataset used for the analysis. 📦
-- `sql/`: SQL queries used for data preprocessing and initial analysis. 📝
-- `power_bi/`: Power BI files for creating visual dashboards. 📈
-- `presentation/`: Presentation slides summarizing the analysis. 🗣️
+- [data](https://github.com/DataAsh21/MEGA_PROJECT/blob/36341b9e552fdeba62c949730f7d6f0c113591de/HOSPITAL%20DATA.xlsx): Contains the dataset used for the analysis. 📦
+- [sql](https://github.com/DataAsh21/MEGA_PROJECT/blob/1d21ab022a85cf5cc2fc9e69460764833caeb3aa/SQLQuery%20HOSPITAL.sql): SQL queries used for data preprocessing and initial analysis. 📝
+- [power_bi](https://github.com/DataAsh21/MEGA_PROJECT/blob/1d21ab022a85cf5cc2fc9e69460764833caeb3aa/hospital.pbix): Power BI files for creating visual dashboards. 📈
 
 
 ## Analysis Tools 🔧
@@ -34,10 +33,9 @@ The analysis revealed several key insights, including:
 - A majority (approximately 70.21%) of Mental Health cases categorized as urgent. ⚠️
 
 ## Dashboard 📊
-A Power BI dashboard has been created to visually represent the findings and insights from this analysis. You can find the dashboard in the `power_bi/` directory. 📈
+A Power BI dashboard has been created to visually represent the findings and insights from this analysis. You can find the dashboard in the [power_bi](https://github.com/DataAsh21/MEGA_PROJECT/blob/1d21ab022a85cf5cc2fc9e69460764833caeb3aa/hospital.pbix) directory. 📈
 
-## Presentation 🗣️
-A presentation summarizing the analysis and key findings is available in the `presentation/` directory. 🗒️
+
 
 ## Usage 🚀
 Feel free to explore the analysis, visuals, and presentation to gain insights into ED visits and mental health trends. 🧐
