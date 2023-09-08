@@ -8,7 +8,7 @@ The analysis aims to answer several key questions posed by the client:
 1. Are there noticeable seasonal trends in the number of ED OR URGENTCASE visits? 🌦️
 2. What are the most common diagnoses within each diagnosis subcategory? 💉
 3. How does patient sex correlate with triage levels? 👩‍⚕️👨‍⚕️
-4. Is there a relationship between diagnosis subcategory and patient sex? ❤️
+4. Is there a relationship between diagnosis subcategory and patient sex? 👥
 5. Are there any outlier cases in the number of visits? 🚑
 6. What proportion of patients have urgent or potentially serious cases? ⚠️
 7. How do the distribution and types of diagnoses change across different months? 📅
