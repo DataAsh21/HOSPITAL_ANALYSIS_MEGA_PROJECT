@@ -1,2 +1,44 @@
-# MEGA_PROJECT
- This project involves an in-depth analysis of Emergency Department visits with a focus on Mental Health
+# Emergency Department Visits Analysis 🏥
+
+## Overview 📊
+This repository contains the code and analysis for an in-depth study of Emergency Department (ED) visits in the North Canada area during the first quarter of 2018. The primary focus of this analysis is to gain insights into Mental Health-related ED OR URDENTCASE visits. 🧠
+
+## Key Questions Explored ❓
+The analysis aims to answer several key questions posed by the client:
+1. Are there noticeable seasonal trends in the number of ED OR URGENTCASE visits? 🌦️
+2. What are the most common diagnoses within each diagnosis subcategory? 💉
+3. How does patient sex correlate with triage levels? 👩‍⚕️👨‍⚕️
+4. Is there a relationship between diagnosis subcategory and patient sex? ❤️
+5. Are there any outlier cases in the number of visits? 🚑
+6. What proportion of patients have urgent or potentially serious cases? ⚠️
+7. How do the distribution and types of diagnoses change across different months? 📅
+8. Is there any correlation between patient sex and the likelihood of having a certain diagnosis? 👥
+9. Do certain triage levels correlate with specific diagnoses? 📊
+
+## Project Structure 📂
+- `data/`: Contains the dataset used for the analysis. 📦
+- `sql/`: SQL queries used for data preprocessing and initial analysis. 📝
+- `power_bi/`: Power BI files for creating visual dashboards. 📈
+- `presentation/`: Presentation slides summarizing the analysis. 🗣️
+
+
+## Analysis Tools 🔧
+The analysis was conducted using SQL for data preprocessing and Power BI for visualization and dashboard creation. 🛠️
+
+## Key Insights 🧐
+The analysis revealed several key insights, including:
+- Seasonal trends in ED visits, with a notable increase in JUNE. 📈❄️
+- (F30-F39) MOOD [AFFECTIVE] DISORDERS disorders being the most common diagnosis within the Mental Health subcategory. 💆‍♀️💆‍♂️
+- Gender-based differences in triage levels and diagnosis patterns. 👩‍⚕️👨‍⚕️
+- Identification of outlier cases requiring further investigation. 🚨
+- A majority (approximately 70.21%) of Mental Health cases categorized as urgent. ⚠️
+
+## Dashboard 📊
+A Power BI dashboard has been created to visually represent the findings and insights from this analysis. You can find the dashboard in the `power_bi/` directory. 📈
+
+## Presentation 🗣️
+A presentation summarizing the analysis and key findings is available in the `presentation/` directory. 🗒️
+
+## Usage 🚀
+Feel free to explore the analysis, visuals, and presentation to gain insights into ED visits and mental health trends. 🧐
+
