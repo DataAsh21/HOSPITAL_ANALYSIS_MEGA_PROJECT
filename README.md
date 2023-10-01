@@ -1,7 +1,7 @@
 # Emergency Department Visits Analysis 🏥
 
 ## Overview 📊
-This repository contains the code and analysis for an in-depth study of Emergency Department (ED) visits in the North Canada area during the first quarter of 2018. The primary focus of this analysis is to gain insights into Mental Health-related ED OR URDENTCASE visits. 🧠
+This repository contains the code and analysis for an in-depth study of Emergency Department (ED) visits in the North Canada area during the first quarter of 2018. The primary focus of this analysis is to gain insights into Mental Health-related ED OR URGENTCASE visits. 🧠
 
 ## Key Questions Explored ❓
 The analysis aims to answer several key questions posed by the client:
